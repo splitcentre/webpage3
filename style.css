@@ -1,0 +1,31 @@
+body {
+    background-color: #b9b4b4; }
+    .meta-post {
+    font-size: 12px; margin-bottom: 10px;
+    }
+    p{
+      color: #000000;
+    }
+    h1{
+      color: #1909ad;
+    }
+    aside.widgets {
+    list-style: none;
+    }
+    aside 
+    footer.copyright { 
+    padding: 10px 20px;
+    font-size: 12px;
+    }
+    a footer{
+      color: #000;
+    }
+    side{
+      padding-top: 5px;
+      color: #fff;
+    }
+
+    body2{
+      background-color: blue;
+  color: white;
+    }
