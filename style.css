@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css? family=Inter: 500, 400");
 
 :root {
---black: Orgba(0, 0, 0, 1);
+--black: rgba(0, 0, 0, 1);
 --abbey: rgba(78, 78, 78, 1); --perano: rgba(164, 189, 255, 0.78);
 --alto: rgba(217, 217, 217, 1); --white: rgba(255, 255, 255, 1);
 --font-size-s: 16px;
@@ -246,19 +246,12 @@ width: 1204px;
 .learn-more-1 {
 
   cursor: pointer;
-  
   left: 0;
-  
   letter-spacing: 0;
-  
   line-height: normal; position: absolute;
-  
   text-align: center;
-  
   text-decoration: underline;
-  
   top: 9px;
-  
   width: 201px;}
 .screenshot{
   margin-left: 4.3px;
@@ -283,11 +276,22 @@ width: 1204px;
   left: 5px; 
   position: absolute; 
   top: 645px; }
-.flex-col-3 { align-items: flex-start; margin-top: 12px; min-height: 413px; width: 426px;}
+
+.flex-col-3 { 
+  align-items: flex-start; 
+  margin-top: 12px; 
+  min-height: 413px; 
+  width: 426px;
+}
 
 .design-1 {
   letter-spacing: 0;
-  line-height: normal; min-height: 33px; text-align: center; width: 162px;}
+  line-height: normal; 
+  min-height: 33px; 
+  text-align: center; 
+  width: 162px;
+}
+
 .line-1-1 {
   align-self: center;
   height: 1px;
@@ -297,19 +301,18 @@ width: 1204px;
   width: 394px;
 }
   
-.according-to-boeing-1 { align-self: flex-end;
-  
+.according-to-boeing-1 { 
+  align-self: flex-end;
   letter-spacing: 0;
-  
   line-height: normal;
-  
   margin-top: 44px; min-height: 314px;
-  
   width: 403px;
-  
   }
-  .x767-1ds-new-1-1 { height: 445px; object-fit: cover; width: 752px;
 
+  .x767-1ds-new-1-1 { 
+    height: 445px; 
+    object-fit: cover; 
+    width: 752px;
   }
   
   .group-7-1 {
